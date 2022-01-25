@@ -1,2 +1,3 @@
 hello  firts commit
 vikash second commit
+bug was resolved third commit
