@@ -1,3 +1,4 @@
 hello  firts commit
 vikash second commit
 shaw fourth commit
+bug was resolved third commit
